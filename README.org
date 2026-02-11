@@ -4,7 +4,7 @@ MCP server providing REPL access with 23 tools for coding agents
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/quasi/cl-mcp-server.git     |
-| commit  | acb2e8b                                             |
+| commit  | be27fc6                                             |
 | systems | cl-mcp-server                                       |
 |---------+-----------------------------------------------------|
 
